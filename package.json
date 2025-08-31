@@ -1,1 +1,8 @@
-{}
+{
+  "name": "starbike-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "pocketbase.exe serve",
+    "dev": "pocketbase.exe serve"
+  }
+}
